@@ -1,0 +1,20 @@
+#intro {
+	color: white;
+	background-color: gray;
+}
+.first {
+	font-size: 120%
+}
+
+.second {
+	font-size: 150%
+}
+
+.third {
+	font-size: 200%
+}
+
+#einz .first em {
+	color:pink;
+	background-color:gray;
+}
